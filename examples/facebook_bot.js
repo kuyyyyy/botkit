@@ -5,6 +5,7 @@
            \ \_____\  \ \_____\    \ \_\  \ \_\ \_\  \ \_\    \ \_\
             \/_____/   \/_____/     \/_/   \/_/\/_/   \/_/     \/_/
 
+Hello I'm botkit facebook
 
 This is a sample Facebook bot built with Botkit.
 
